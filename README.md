@@ -1,2 +1,2 @@
 # EndProject
-졸업작품용
+졸업작품 관리용 Git
