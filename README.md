@@ -23,7 +23,7 @@ STEAM에서 STEAM VR을 설치 후, 프로그램을 실행시키면 작동합니
 | FireControll | 자신이 가지고 있는 자식 오브젝트의 FireTime()함수를 실행 |
 | Foul_Count | Ball_White (Clone)과 충돌 시, 지정 음성을 출력하며 Text를 FOUL로 변경합니다 |
 | Gamecontroll | Bat_Button의 트리거를 받아, Ball_White (Clone)가 배트와 충돌 시 m를 표시하며, Ball_White (Clone)가 존재하지 않을 경우 Bat_Button을 활성화|
-| Homerun_cheak | 자신이 가지고 있는 자식 오브젝트의 FireTime()함수를 실행 |
-| HomeRunFire | 자신이 가지고 있는 자식 오브젝트의 FireTime()함수를 실행 |
-| magunus_Test | 자신이 가지고 있는 자식 오브젝트의 FireTime()함수를 실행 |
-| Pitcher_controll | 자신이 가지고 있는 자식 오브젝트의 FireTime()함수를 실행 |
+| Homerun_cheak | 해당 스크립트를 가지고 있는 오브젝트가 Ball_White (Clone)와 충돌 시, FireControll의 함수를 작동함과 동시에 Text를 HOMERUN으로 변경합니다 |
+| HomeRunFire | FireControll에서 신호를 받아, FireTime()함수를 실행합니다 |
+| magunus_Test | 소유 오브젝트가 가지고 있는 addforce()의 x값의/13 x -1 만큼 소유 오브젝트의 x값을 이동시킵니다 |
+| Pitcher_controll | Ball_White (Clone)을 생성 후, 랜덤한 방향으로 Ball을 addforce합니다. |
