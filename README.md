@@ -12,7 +12,10 @@
 
 STEAM에서 STEAM VR을 설치 후, 프로그램을 실행시키면 작동합니다.
 ### 
-
+![화면 캡처 2022-06-10 134951](https://user-images.githubusercontent.com/103991146/173044889-df94d130-a4a8-48e7-ac77-4e1407875f24.png)
+![화면 캡처 2022-06-10 135032](https://user-images.githubusercontent.com/103991146/173044899-0702af05-8966-481e-9875-835ced3ab93b.png)
+![화면 캡처 2022-06-10 140525](https://user-images.githubusercontent.com/103991146/173044901-1d44a091-fb3d-40ca-8874-f96336b95300.png)
+![화면 캡처 2022-06-10 140534](https://user-images.githubusercontent.com/103991146/173044906-d2586ed5-3082-4787-8590-8ce51edfe2de.png)
 
 ##  스크립트
 
