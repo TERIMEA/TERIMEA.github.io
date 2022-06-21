@@ -14,7 +14,7 @@ STEAM에서 STEAM VR을 설치 후, 프로그램을 실행시키면 작동합니
 
 
 ## 관련 동영상
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U57Ajk9aUO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/U57Ajk9aUO0/0.jpg)](https://youtu.be/U57Ajk9aUO0)
 ## 게임 설명
 ![화면 캡처 2022-06-10 134951](https://user-images.githubusercontent.com/103991146/173044889-df94d130-a4a8-48e7-ac77-4e1407875f24.png)
 관객석에 앉아 있는 관중은 게임 실행 시 무작위 이미지로 변경되며, 플레이어가 특정 트리거를 만족시켰을 시 움직입니다
