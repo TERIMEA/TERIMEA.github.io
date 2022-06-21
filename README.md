@@ -11,6 +11,10 @@
 ![화면 캡처 2022-04-19 185545](https://user-images.githubusercontent.com/103991146/165240778-06766a46-1d95-4375-b7f1-29383e52d5f3.png)
 
 STEAM에서 STEAM VR을 설치 후, 프로그램을 실행시키면 작동합니다.
+
+
+## 관련 동영상
+https://www.youtube.com/watch?v=U57Ajk9aUO0
 ## 게임 설명
 ![화면 캡처 2022-06-10 134951](https://user-images.githubusercontent.com/103991146/173044889-df94d130-a4a8-48e7-ac77-4e1407875f24.png)
 관객석에 앉아 있는 관중은 게임 실행 시 무작위 이미지로 변경되며, 플레이어가 특정 트리거를 만족시켰을 시 움직입니다
